@@ -42,8 +42,8 @@ End HTML Imports
 </td>
 <td style="vertical-align: top; text-align: left;">
   <div>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></td>
-<td><a href="https://www.credly.com/badges/1fba98a2-e35e-4a3f-8925-bae09a8cf993?source=linked_in_profile">AWS Certified Cloud Practicioner</a></td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.credly.com/badges/1fba98a2-e35e-4a3f-8925-bae09a8cf993?source=linked_in_profile">AWS Certified Cloud Practicioner</a>
   </div>
       <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
