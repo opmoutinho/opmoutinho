@@ -68,13 +68,6 @@ End HTML Imports
 </td></tr>
 </tbody></table>
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" width="40" height="40"/>
-</div>
-
 <!--
 **opmoutinho/opmoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
