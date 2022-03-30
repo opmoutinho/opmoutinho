@@ -11,9 +11,8 @@ End HTML Imports
 ### Hi there 👋
 
 <style>
-  table{
- border-collapse:collapse;
-}
+  h1 {color:red;}
+  p {color:blue;}
 </style>
 
 <table class="wikiTableStyle" cellpadding="0" border="0" style="width: 270px; font-size: 88%;">
