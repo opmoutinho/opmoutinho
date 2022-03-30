@@ -7,7 +7,7 @@ Start HTML Imports
 <!--
 End HTML Imports
 -->
-<div style="border: 1px solid;">
+<div style="border: 1px solid;" border = "solid">
 <a href="https://github.com/opmoutinho">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opmoutinho&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opmoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
