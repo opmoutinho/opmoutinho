@@ -7,10 +7,15 @@ Start HTML Imports
 <!--
 End HTML Imports
 -->
+<style>
+  table{
+ border-collapse:collapse;
+}
+  </style>
 
 ### Hi there 👋
 
-<table class="wikiTableStyle" cellpadding="3" border="0" style="width: 270px; font-size: 88%;">
+<table class="wikiTableStyle" cellpadding="0" border="0" style="width: 270px; font-size: 88%;">
 <tbody>
 <tr>
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Full Name
