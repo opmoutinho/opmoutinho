@@ -31,7 +31,7 @@ End HTML Imports
 <tr>
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Alma Mater
 </td>
-<td style="vertical-align: top; text-align: left;">&lt;Academia de Código_&gt;</td></tr>
+<td style="vertical-align: top; text-align: left;"><a href="https://www.academiadecodigo.org">&lt;Academia de Código_&gt;</a></td></tr>
 <tr>
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Current Role
 </td>
