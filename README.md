@@ -29,7 +29,11 @@ End HTML Imports
 <td style="vertical-align: top; text-align: left;"><a href="/wiki/1_de_mar%C3%A7o#Nascimentos" title="1 de março">30th of September</a> de <a href="/wiki/1892" title="1892">1996</a><br><a href="/wiki/Nova_Gales_do_Sul" title="Nova Gales do Sul">Pragal, Setúbal</a>, <a href="/wiki/Austr%C3%A1lia" title="Austrália">Portugal</a>
 </td></tr>
 <tr>
-<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Current Role:
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Alma Mater
+</td>
+<td style="vertical-align: top; text-align: left;">&lt;Academia de Código_&gt;</td></tr>
+<tr>
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Current Role
 </td>
 <td style="vertical-align: top; text-align: left;">QA Engineer
 </td></tr>
