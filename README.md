@@ -41,7 +41,7 @@ End HTML Imports
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Certifications
 </td>
 <td style="vertical-align: top; text-align: left;">
-  <table cellspacing="0" cellpadding="0">
+  <table cellspacing="0" cellpadding="0" border="none">
     <tbody>
   <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></td>
@@ -51,12 +51,15 @@ End HTML Imports
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
 <td><a href="https://www.udemy.com/certificate/UC-32f6e595-f069-4688-ba8a-7bb1b52be3a6/">The Complete SQL Bootcamp 2022: Go from Zero to Hero</a></td>
   </tr>
+       <tr>
+<td><img src="https://play-lh.googleusercontent.com/2ECNdTd7ypl2nKKi8pUPglRl7TGi7_konvNOzIW0WwKmsw-vea_FSz95hBGrjRVBMw" width="40" height="40"/></td>
+<td><a href="https://www.udemy.com/certificate/UC-7f96c9c5-214c-46ff-a21d-fb325c902068/">Certificate in Qlik Sense Analytics Development</a></td>
+  </tr>
   
            
           
   
   <br>
-  <a href="https://www.udemy.com/certificate/UC-7f96c9c5-214c-46ff-a21d-fb325c902068/">Certificate in Qlik Sense Analytics Development</a>
       </tbody>
       </table>
 </td></tr>
