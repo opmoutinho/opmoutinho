@@ -10,10 +10,10 @@ End HTML Imports
 
 ### Hi there 👋
 
-<i class="devicon-selenium-original"></i>
-<i class="devicon-java-plain-wordmark"></i>
-<i class="devicon-javascript-plain"></i>
-<i class="devicon-cucumber-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" />
 
 <!--
 **opmoutinho/opmoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
