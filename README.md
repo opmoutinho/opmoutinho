@@ -15,17 +15,19 @@ End HTML Imports
 <!--
 <table cellpadding="0" border="0" style="width: 270px; font-size: 88%; border: none;">
 <tbody>
--->
 <tr style="border: none;">
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; border: none;">Full Name
 </td>
 <td style="vertical-align: top; text-align: left;">Paulo Jorge Almeida Moutinho
 </td></tr>
 <tr>
+-->
+<div>
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Birthdate
 </td>
 <td style="vertical-align: top; text-align: left;"><a href="https://en.wikipedia.org/wiki/September_30">30th of September</a> de 1996<br><a href="https://en.wikipedia.org/wiki/Pragal">Pragal</a>, <a href="https://en.wikipedia.org/wiki/Setúbal">Setúbal</a>, <a href="https://en.wikipedia.org/wiki/Portugal">Portugal</a>
-</td></tr>
+</td>
+</div>
 <tr>
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Alma Mater
 </td>
