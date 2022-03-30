@@ -12,8 +12,8 @@ End HTML Imports
 
 <table cellpadding="0" border="0" style="width: 270px; font-size: 88%; border: none;">
 <tbody>
-<tr>
-<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Full Name
+<tr style="border: none;">
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold; border: none;">Full Name
 </td>
 <td style="vertical-align: top; text-align: left;">Paulo Jorge Almeida Moutinho
 </td></tr>
