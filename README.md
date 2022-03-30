@@ -16,24 +16,18 @@ End HTML Imports
 <th colspan="2" class="" style="text-align:center; font-size:larger; background-color:#B0C4DE; border-radius: 3px 3px 0 0;"><span class="">Paulo Moutinho</span>
 </th></tr>
 <tr>
-<td colspan="2" style="text-align:center;"><div style="padding-bottom: 5px;"><div class="center"><div class="floatnone"><a href="/wiki/Ficheiro:A03716Phillipps.jpg" class="image" title="Roy Phillipps"><img alt="My Awesome Photo" src="https://avatars.githubusercontent.com/u/19191653?s=400&u=a6f9a5517792ec7ff8c4ace1bd0980d5008f81b1&v=4" decoding="async" width="260" height="369" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/A03716Phillipps.jpg/390px-A03716Phillipps.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/30/A03716Phillipps.jpg 2x" data-file-width="450" data-file-height="639"></a></div></div></div>Capitão Roy Phillipps em França, Março de 1918
-</td></tr>
+<td colspan="2" style="text-align:center;"><div style="padding-bottom: 5px;"><div class="center"><div class="floatnone"><a href="/wiki/Ficheiro:A03716Phillipps.jpg" class="image" title="Roy Phillipps"><img alt="My Awesome Photo" src="https://avatars.githubusercontent.com/u/19191653?s=400&u=a6f9a5517792ec7ff8c4ace1bd0980d5008f81b1&v=4" decoding="async" width="260" height="369" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/A03716Phillipps.jpg/390px-A03716Phillipps.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/30/A03716Phillipps.jpg 2x" data-file-width="450" data-file-height="639"></a></div></div></div>Software Engineer Paulo Moutinho 9th Week of Programmin Bootcamp</td>
+</tr>
 <tr>
-<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Nome completo
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Full Name
 </td>
-<td style="vertical-align: top; text-align: left;">Roy Cecil Phillipps
+<td style="vertical-align: top; text-align: left;">Paulo Jorge Almeida Moutinho
 </td></tr>
 <tr>
-<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Nascimento
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Birthdate
 </td>
-<td style="vertical-align: top; text-align: left;"><a href="/wiki/1_de_mar%C3%A7o#Nascimentos" title="1 de março">1 de março</a> de <a href="/wiki/1892" title="1892">1892</a><br><a href="/wiki/Nova_Gales_do_Sul" title="Nova Gales do Sul">Nova Gales do Sul</a>, <a href="/wiki/Austr%C3%A1lia" title="Austrália">Austrália</a>
+<td style="vertical-align: top; text-align: left;"><a href="/wiki/1_de_mar%C3%A7o#Nascimentos" title="1 de março">30th of September</a> de <a href="/wiki/1892" title="1892">1996</a><br><a href="/wiki/Nova_Gales_do_Sul" title="Nova Gales do Sul">Pragal, Setúbal</a>, <a href="/wiki/Austr%C3%A1lia" title="Austrália">Portugal</a>
 </td></tr>
-<tr>
-<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Morte
-</td>
-<td style="vertical-align: top; text-align: left;"><span style="white-space:nowrap;"><a href="/wiki/21_de_maio" title="21 de maio">21 de maio</a> de <a href="/wiki/1941" title="1941">1941</a>&nbsp;(49&nbsp;anos)</span><br>Archfield, <a href="/wiki/Queensland" title="Queensland">Queensland</a>, <a href="/wiki/Austr%C3%A1lia" title="Austrália">Austrália</a>
-</td></tr>
-<tr>
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Progenitores
 </td>
 <td style="vertical-align: top; text-align: left;"><small>Mãe:</small> Cecil<br><small>Pai:</small> William Hargreaves Phillipps
