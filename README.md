@@ -41,8 +41,10 @@ End HTML Imports
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Certifications
 </td>
 <td style="vertical-align: top; text-align: left;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-<a href="https://www.credly.com/badges/1fba98a2-e35e-4a3f-8925-bae09a8cf993?source=linked_in_profile">AWS Certified Cloud Practicioner</a>
+  <tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></td>
+<td><a href="https://www.credly.com/badges/1fba98a2-e35e-4a3f-8925-bae09a8cf993?source=linked_in_profile">AWS Certified Cloud Practicioner</a></td>
+  </tr>
   <br>
   <a href="https://www.udemy.com/certificate/UC-32f6e595-f069-4688-ba8a-7bb1b52be3a6/">The Complete SQL Bootcamp 2022: Go from Zero to Hero</a>
   <br>
