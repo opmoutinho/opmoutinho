@@ -51,18 +51,19 @@ End HTML Imports
 </td>
   <td style="vertical-align: top; text-align: left;">
 <div title="QA && Automation">
-  <p>QA && Automation</p>
+  <p><b>QA && Automation</b></p>
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>  
   </p>
 </div>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
-  <a href="https://www.udemy.com/certificate/UC-32f6e595-f069-4688-ba8a-7bb1b52be3a6/">The Complete SQL Bootcamp 2022: Go from Zero to Hero</a>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-  <a href="https://www.udemy.com/certificate/UC-7f96c9c5-214c-46ff-a21d-fb325c902068/">Certificate in Qlik Sense Analytics Development</a>
+<div title="Development">
+  <p><b>Development</b></p>
+  <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+  </p>
 </div>
 </td></tr>
 </tbody></table>
