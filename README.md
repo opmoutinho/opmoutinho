@@ -32,7 +32,7 @@ End HTML Imports
 <td style="vertical-align: top; text-align: left;">QA Engineer
 </td></tr>
 <tr>
-<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Certifications
+<td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Certified by Externals
 </td>
 <td style="vertical-align: top; text-align: left;">
 <div>
@@ -44,6 +44,21 @@ End HTML Imports
   <a href="https://www.udemy.com/certificate/UC-32f6e595-f069-4688-ba8a-7bb1b52be3a6/">The Complete SQL Bootcamp 2022: Go from Zero to Hero</a>
 <div>
   <img src="https://play-lh.googleusercontent.com/2ECNdTd7ypl2nKKi8pUPglRl7TGi7_konvNOzIW0WwKmsw-vea_FSz95hBGrjRVBMw" width="40" height="40"/>
+  <a href="https://www.udemy.com/certificate/UC-7f96c9c5-214c-46ff-a21d-fb325c902068/">Certificate in Qlik Sense Analytics Development</a>
+</div>
+</td></tr>
+  <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Certified by My Mother
+</td>
+  <td style="vertical-align: top; text-align: left;">
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> 
+  <a href="https://www.credly.com/badges/1fba98a2-e35e-4a3f-8925-bae09a8cf993?source=linked_in_profile">AWS Certified Cloud Practicioner</a>
+</div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+  <a href="https://www.udemy.com/certificate/UC-32f6e595-f069-4688-ba8a-7bb1b52be3a6/">The Complete SQL Bootcamp 2022: Go from Zero to Hero</a>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
   <a href="https://www.udemy.com/certificate/UC-7f96c9c5-214c-46ff-a21d-fb325c902068/">Certificate in Qlik Sense Analytics Development</a>
 </div>
 </td></tr>
