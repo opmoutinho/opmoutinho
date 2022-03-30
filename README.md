@@ -50,9 +50,10 @@ End HTML Imports
   <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Certified by My Mother
 </td>
   <td style="vertical-align: top; text-align: left;">
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> 
-  <a href="https://www.credly.com/badges/1fba98a2-e35e-4a3f-8925-bae09a8cf993?source=linked_in_profile">AWS Certified Cloud Practicioner</a>
+<div title="QA && Automation">
+  <span>QA && Automation</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
 </div>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
