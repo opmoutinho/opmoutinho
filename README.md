@@ -10,7 +10,7 @@ End HTML Imports
 
 ### Hi there 👋
 
-<table cellpadding="0" border="0" style="width: 270px; font-size: 88%;" border-collapse="collapse;" >
+<table cellpadding="0" border="0" style="width: 270px; font-size: 88%; border=none;">
 <tbody>
 <tr>
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Full Name
