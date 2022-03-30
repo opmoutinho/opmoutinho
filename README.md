@@ -63,6 +63,14 @@ End HTML Imports
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40"/>
+  </p>
+</div>
+<div title="VCS && Workflow">
+  <p><b>VCS && Workflow</b></p>
+  <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://static.thenounproject.com/png/44251-200.png" width="40" height="40"/>
   </p>
 </div>
 </td></tr>
