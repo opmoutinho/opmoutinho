@@ -7,13 +7,14 @@ Start HTML Imports
 <!--
 End HTML Imports
 -->
+
+### Hi there 👋
+
 <style>
   table{
  border-collapse:collapse;
 }
-  </style>
-
-### Hi there 👋
+</style>
 
 <table class="wikiTableStyle" cellpadding="0" border="0" style="width: 270px; font-size: 88%;">
 <tbody>
