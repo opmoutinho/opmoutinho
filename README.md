@@ -41,7 +41,7 @@ End HTML Imports
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Certifications
 </td>
 <td style="vertical-align: top; text-align: left;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <a href="https://www.credly.com/badges/1fba98a2-e35e-4a3f-8925-bae09a8cf993?source=linked_in_profile">AWS Certified Cloud Practicioner</a>
   <br>
   <a href="https://www.udemy.com/certificate/UC-32f6e595-f069-4688-ba8a-7bb1b52be3a6/">The Complete SQL Bootcamp 2022: Go from Zero to Hero</a>
@@ -51,10 +51,10 @@ End HTML Imports
 </tbody></table>
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" idth="40" height="40"/>        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" idth="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" idth="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" idth="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" width="40" height="40"/>
 </div>
 
 <!--
