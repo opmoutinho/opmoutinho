@@ -51,9 +51,11 @@ End HTML Imports
 </td>
   <td style="vertical-align: top; text-align: left;">
 <div title="QA && Automation">
-  <span>QA && Automation</span>
+  <p>QA && Automation</p>
+  <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  </p>
 </div>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
