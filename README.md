@@ -13,7 +13,7 @@
 </td></tr>
 <tr>
 -->
-<div>
+<div border="1px solid">
 <td scope="row" style="vertical-align: top; text-align: left; font-weight:bold;">Birthdate
 </td>
 <td style="vertical-align: top; text-align: left;"><a href="https://en.wikipedia.org/wiki/September_30">30th of September</a> de 1996<br><a href="https://en.wikipedia.org/wiki/Pragal">Pragal</a>, <a href="https://en.wikipedia.org/wiki/Setúbal">Setúbal</a>, <a href="https://en.wikipedia.org/wiki/Portugal">Portugal</a>
@@ -118,11 +118,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="https://github.com/sindresorhus/css-in-readme-like-wat/blob/main/header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
